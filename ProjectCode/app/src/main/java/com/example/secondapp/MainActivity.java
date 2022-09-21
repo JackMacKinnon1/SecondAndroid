@@ -3,7 +3,7 @@ package com.example.secondapp;
 import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
-import android.widget.SeekBar;
+import android.widget.*;
 
 public class MainActivity extends AppCompatActivity {
     SeekBar billEditText;
